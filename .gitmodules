@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "irboost"]
-	path = irboost
-	url = https://github.com/cran/irboost
 [submodule "mpath"]
 	path = mpath
 	url = https://github.com/zhuwang46/mpath
