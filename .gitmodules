@@ -2,6 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bst"]
+	path = bst
+	url = https://github.com/cran/bst
+[submodule "bujar"]
+	path = bujar
+	url = https://github.com/cran/bujar
+[submodule "cts"]
+	path = cts
+	url = https://github.com/zhuwang46/cts
+[submodule "irboost"]
+	path = irboost
+	url = https://github.com/cran/irboost
 [submodule "mpath"]
 	path = mpath
 	url = https://github.com/zhuwang46/mpath
+[submodule "orsk"]
+	path = orsk
+	url = https://github.com/cran/orsk
